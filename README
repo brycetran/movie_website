@@ -1,0 +1,10 @@
+#Getting Started
+
+Sign up for an account with **the Movie Database** to get an API_Key
+import **tmdbsimple** a wrapper class for the movie database
+
+#Program
+
+Obtain a movie_id from the Movie Database and enter to display movie's trailer
+Update movie_display to number of current movies to display
+
